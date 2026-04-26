@@ -1,0 +1,63 @@
+[2026-04-25 22:02:40] INFO: MongoDB Connected: localhost
+[2026-04-25 22:02:40] INFO: Reminder engine started - checking every minute
+[2026-04-25 22:02:40] INFO: NoteVault server running on port 3000 in development mode
+[2026-04-25 22:02:40] INFO: Frontend: http://localhost:3000
+[2026-04-25 22:02:47] HTTP: [0mGET / [32m200[0m 2.997 ms - 13912[0m
+[2026-04-25 22:02:47] HTTP: [0mGET /css/style.css [32m200[0m 1.447 ms - 21444[0m
+[2026-04-25 22:02:47] HTTP: [0mGET /js/api.js [32m200[0m 1.143 ms - 1967[0m
+[2026-04-25 22:02:47] HTTP: [0mGET /js/app.js [32m200[0m 1.278 ms - 23534[0m
+[2026-04-25 22:02:47] HTTP: [0mGET /js/api.js [32m200[0m 0.520 ms - 1967[0m
+[2026-04-25 22:02:47] HTTP: [0mGET /js/app.js [32m200[0m 0.852 ms - 23534[0m
+[2026-04-25 22:02:48] HTTP: [0mGET /api/auth/me [33m401[0m 2.389 ms - 69[0m
+[2026-04-25 22:02:48] HTTP: [0mGET /favicon.ico [32m200[0m 0.968 ms - 13912[0m
+[2026-04-25 22:03:06] HTTP: [0mPOST /api/auth/register [33m400[0m 2.960 ms - 253[0m
+[2026-04-25 22:03:16] HTTP: [0mPOST /api/auth/register [33m400[0m 1.263 ms - 181[0m
+[2026-04-25 22:03:29] INFO: New user registered: acursio@gmail.com from IP: ::ffff:127.0.0.1
+[2026-04-25 22:03:29] HTTP: [0mPOST /api/auth/register [32m201[0m 239.035 ms - 106[0m
+[2026-04-25 22:03:29] HTTP: [0mGET /api/notes [32m200[0m 6.902 ms - 37[0m
+[2026-04-25 22:03:29] HTTP: [0mGET /api/reminders [32m200[0m 9.828 ms - 41[0m
+[2026-04-25 22:03:29] HTTP: [0mGET /api/reminders/triggered [32m200[0m 7.599 ms - 41[0m
+[2026-04-25 22:03:32] HTTP: [0mGET /api/reminders [36m304[0m 2.394 ms - -[0m
+[2026-04-25 22:03:36] HTTP: [0mGET /api/notes [36m304[0m 2.896 ms - -[0m
+[2026-04-25 22:03:37] HTTP: [0mGET /api/reminders [36m304[0m 2.521 ms - -[0m
+[2026-04-25 22:03:38] HTTP: [0mGET /api/notes [36m304[0m 2.588 ms - -[0m
+[2026-04-25 22:04:29] INFO: Note created: 69ece991e65c63d4b285b93b by user: 69ece955e65c63d4b285b929
+[2026-04-25 22:04:29] HTTP: [0mPOST /api/notes [32m201[0m 4.318 ms - 237[0m
+[2026-04-25 22:04:29] HTTP: [0mGET /api/notes [32m200[0m 3.930 ms - 258[0m
+[2026-04-25 22:04:29] HTTP: [0mGET /api/reminders/triggered [36m304[0m 3.268 ms - -[0m
+[2026-04-25 22:04:38] HTTP: [0mGET /api/reminders [36m304[0m 2.886 ms - -[0m
+[2026-04-25 22:05:29] HTTP: [0mGET /api/reminders/triggered [36m304[0m 2.703 ms - -[0m
+[2026-04-25 22:05:56] INFO: Reminder created: 69ece9e8e65c63d4b285b948 by user: 69ece955e65c63d4b285b929
+[2026-04-25 22:05:56] HTTP: [0mPOST /api/reminders [32m201[0m 6.091 ms - 404[0m
+[2026-04-25 22:05:56] HTTP: [0mGET /api/reminders [32m200[0m 6.981 ms - 449[0m
+[2026-04-25 22:06:08] HTTP: [0mGET /api/notes [36m304[0m 2.285 ms - -[0m
+[2026-04-25 22:06:29] HTTP: [0mGET /api/reminders/triggered [36m304[0m 3.466 ms - -[0m
+[2026-04-25 22:07:29] HTTP: [0mGET /api/reminders/triggered [36m304[0m 2.760 ms - -[0m
+[2026-04-25 22:08:30] HTTP: [0mGET /api/reminders/triggered [36m304[0m 2.916 ms - -[0m
+[2026-04-25 22:09:30] HTTP: [0mGET /api/reminders/triggered [36m304[0m 2.272 ms - -[0m
+[2026-04-25 22:10:30] HTTP: [0mGET /api/reminders/triggered [36m304[0m 2.435 ms - -[0m
+[2026-04-25 22:10:57] WARN: MongoDB disconnected. Attempting to reconnect...
+[2026-04-26 07:55:40] INFO: MongoDB Connected: localhost
+[2026-04-26 07:55:40] INFO: Reminder engine started - checking every minute
+[2026-04-26 07:55:40] INFO: NoteVault server running on port 3000 in development mode
+[2026-04-26 07:55:40] INFO: Frontend: http://localhost:3000
+[2026-04-26 07:56:12] HTTP: [0mGET / [32m200[0m 4.907 ms - 13912[0m
+[2026-04-26 07:56:12] HTTP: [0mGET /css/style.css [32m200[0m 2.333 ms - 21444[0m
+[2026-04-26 07:56:12] HTTP: [0mGET /js/api.js [32m200[0m 2.796 ms - 1967[0m
+[2026-04-26 07:56:12] HTTP: [0mGET /js/app.js [32m200[0m 1.987 ms - 23534[0m
+[2026-04-26 07:56:12] HTTP: [0mGET /js/api.js [32m200[0m 1.396 ms - 1967[0m
+[2026-04-26 07:56:12] HTTP: [0mGET /js/app.js [32m200[0m 2.343 ms - 23534[0m
+[2026-04-26 07:56:12] HTTP: [0mGET /api/auth/me [33m401[0m 3.598 ms - 69[0m
+[2026-04-26 07:56:13] HTTP: [0mGET /favicon.ico [32m200[0m 1.884 ms - 13912[0m
+[2026-04-26 07:56:58] INFO: User logged in: acursio@gmail.com from IP: ::ffff:127.0.0.1
+[2026-04-26 07:56:58] HTTP: [0mPOST /api/auth/login [32m200[0m 549.047 ms - 106[0m
+[2026-04-26 07:56:58] HTTP: [0mGET /api/reminders/triggered [32m200[0m 34.862 ms - 41[0m
+[2026-04-26 07:56:58] HTTP: [0mGET /api/notes [32m200[0m 41.448 ms - 258[0m
+[2026-04-26 07:56:58] HTTP: [0mGET /api/reminders [32m200[0m 45.051 ms - 449[0m
+[2026-04-26 07:57:06] HTTP: [0mGET /api/reminders [36m304[0m 6.029 ms - -[0m
+[2026-04-26 07:57:07] HTTP: [0mGET /api/notes [36m304[0m 5.960 ms - -[0m
+[2026-04-26 07:57:51] HTTP: [0mGET /api/reminders [36m304[0m 12.202 ms - -[0m
+[2026-04-26 07:57:58] HTTP: [0mGET /api/reminders/triggered [36m304[0m 5.801 ms - -[0m
+[2026-04-26 07:58:59] HTTP: [0mGET /api/reminders/triggered [36m304[0m 4.954 ms - -[0m
+[2026-04-26 07:59:59] HTTP: [0mGET /api/reminders/triggered [36m304[0m 9.557 ms - -[0m
+[2026-04-26 08:01:00] HTTP: [0mGET /api/reminders/triggered [36m304[0m 6.981 ms - -[0m
